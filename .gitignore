@@ -1,0 +1,16 @@
+*.js
+.vscode
+node_modules
+package-lock.json
+docs/ts
+docs/_layouts
+docs/_includes/common/
+docs/assets
+docs/CHANGELOG.md
+.bundle/
+docs/.sass-cache/
+docs/_site/
+.DS_Store
+docs/.jekyll-metadata
+yarn.lock
+gh-pages-docs/
