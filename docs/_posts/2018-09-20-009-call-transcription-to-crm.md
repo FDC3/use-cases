@@ -1,5 +1,5 @@
 ---
-title:  "Use Case 9: Client-side FX Trader Credit Check"
+title:  "Use Case 9: Call Transcription to CRM"
 status: ACCEPTED
 layout: use_case
 ---
