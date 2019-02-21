@@ -1,3 +1,9 @@
+---
+title:  "Use Case 2: Buy side Portfolio Manager"
+status: ACCEPTED
+layout: use_case
+---
+
 ### Preconditions
 On their desktop, this user has:
 - An installed full-service market data terminal with news, quotes, research management, etc. The application is open and FDC3 compatible.
