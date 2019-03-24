@@ -1,5 +1,5 @@
-# FDC3 Use Cases
+# Archived FDC3 Use Cases Repository
 
-FDC3 Use Cases specifications.
+The FDC3 Use Cases working group content in this repository has been migrated to [FDC3/FDC3](https://github.com/FDC3/FDC3).
 
-Visit [fdc3-use-cases.finos.org](https://fdc3-use-cases.finos.org) for more info.
+* For current FDC3 Use Cases docs, see https://fdc3.finos.org/docs/next/use-cases/overview.
